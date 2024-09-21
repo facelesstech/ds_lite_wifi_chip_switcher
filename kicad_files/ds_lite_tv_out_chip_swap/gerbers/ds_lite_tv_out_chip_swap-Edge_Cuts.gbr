@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
+%TF.CreationDate,2024-08-25T11:53:40+01:00*%
+%TF.ProjectId,ds_lite_tv_out_chip_swap,64735f6c-6974-4655-9f74-765f6f75745f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-08-25 11:53:40*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X148905000Y-69890000D02*
+X163320000Y-69890000D01*
+X163320000Y-89430000D01*
+X148905000Y-89430000D01*
+X148905000Y-69890000D01*
+M02*
