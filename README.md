@@ -5,3 +5,5 @@ ds_lite_wifi_chip_switcher
   * [Youtube link](https://youtu.be/EX0rnXQ1-X4)
 
 ![alt text](https://github.com/facelesstech/ds_lite_wifi_chip_switcher/blob/main/PXL_20240921_103643882.jpg?raw=true)
+
+![alt text](https://github.com/facelesstech/ds_lite_wifi_chip_switcher/blob/main/PXL_20240921_171748065.jpg?raw=true)
